@@ -13,11 +13,10 @@ venv/
 # Requirements
 requirements.txt
 
-
+# image
+image/
 
 ## CODE 
-
-# Specific Python files to ignore
 summarizer.py
 auth.py
 main.py
