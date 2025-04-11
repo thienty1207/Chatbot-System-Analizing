@@ -6,7 +6,9 @@ Contact: tytybill123@gmail.com (for full Source Code)
 
 </div>
 
-<div align="center">Transforming documents into insights, effortlessly engaging conversations.</div>
+<div align="center">
+
+Transforming documents into insights, effortlessly engaging conversations.</div>
 
 <div align="center">
   
