@@ -1,4 +1,4 @@
-# CHATBOT-SYSTEM-ANALIZING
+# CHATBOT-SYSTEM-ANALYZING
 
 <div align="center">Transforming documents into insights, effortlessly engaging conversations.</div>
 
@@ -34,7 +34,7 @@
 
 </div>
 
-# CHATBOT-SYSTEM-ANALIZING Content
+# CHATBOT-SYSTEM-ANALYZING Content
 #### Developed by Ho Thien Ty  Contact: tytybill123@gmail.com (for full Source Code)
 
 ## Screenshots
