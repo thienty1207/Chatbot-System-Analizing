@@ -1,11 +1,11 @@
-### Developed by Ho Thien Ty Contact: tytybill123@gmail.com (for full Source Code)
-
-
-<div align="center">
+# CHATBOT-ANALIZING-SUMARIZING-PDF-URL
 
 <div align="center">
-Transforming documents into insights, effortlessly engaging conversations.
+Developed by Ho Thien Ty  
+Contact: tytybill123@gmail.com (for full Source Code)
 </div>
+
+<div align="center">Transforming documents into insights, effortlessly engaging conversations.</div>
 
 <div align="center">
   
