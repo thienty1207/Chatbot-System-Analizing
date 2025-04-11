@@ -1,4 +1,4 @@
-# CHATBOT-ANALIZING-SUMARIZING-PDF-URL
+# CHATBOT-SYSTEM-ANALIZING
 
 <div align="center">Transforming documents into insights, effortlessly engaging conversations.</div>
 
@@ -34,7 +34,7 @@
 
 </div>
 
-# AI Assistant for PDF and URL Content
+# CHATBOT-SYSTEM-ANALIZING Content
 #### Developed by Ho Thien Ty  Contact: tytybill123@gmail.com (for full Source Code)
 
 ## Screenshots
