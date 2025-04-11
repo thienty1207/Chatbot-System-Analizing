@@ -35,7 +35,7 @@
 </div>
 
 # AI Assistant for PDF and URL Content
-### Developed by Ho Thien Ty  Contact: tytybill123@gmail.com (for full Source Code)
+#### Developed by Ho Thien Ty  Contact: tytybill123@gmail.com (for full Source Code)
 
 ## Screenshots
 ![PDF Interface](image/pdfprocess.png)
