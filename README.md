@@ -1,7 +1,5 @@
+### Developed by Ho Thien Ty Contact: tytybill123@gmail.com (for full Source Code)
 
-<div align="center">
-  ### Developed by Ho Thien Ty Contact: tytybill123@gmail.com (for full Source Code)
-</div>
 
 <div align="center">
 
