@@ -13,8 +13,7 @@ venv/
 # Requirements
 requirements.txt
 
-# image
-image/
+
 
 ## CODE 
 summarizer.py
